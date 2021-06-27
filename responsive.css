@@ -229,8 +229,8 @@
     }
     .services {
         width: 33.4%;
-        padding: 38px;
-        margin-left: 90px;
+        padding: 37px;
+        margin-left: 83px;
         margin-bottom: 30px;
     }
     .contact-us h3 {
@@ -258,6 +258,9 @@
     .contact-item p {
         margin-bottom: 14px;
         font-size: 16px;
+    }
+    .right-content {
+        text-align: center;
     }
 }
 @media(max-width:576px){
